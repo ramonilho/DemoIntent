@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ramonilho.demointent">
 
-    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
 
     <application
         android:allowBackup="true"
@@ -24,7 +24,8 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name=".NewUserActivity"></activity>
+        <activity android:name=".NewUserActivity" />
+        <activity android:name=".SMSActivity"></activity>
     </application>
 
 </manifest>
