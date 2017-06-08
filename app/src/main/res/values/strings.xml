@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoIntent</string>
+    <string name="hint_username">Insira o nome de usuário</string>
+    <string name="hint_password">Insira a senha</string>
+    <string name="connect">Conectar</string>
+    <string name="new_user">Sou um novo usuário</string>
+    <string name="hint_name">Insira seu nome</string>
+    <string name="create">Criar</string>
+</resources>
